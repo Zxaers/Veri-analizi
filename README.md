@@ -52,3 +52,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 pip install pandas numpy scikit-learn matplotlib seaborn
    git clone 
    [(https://github.com/Zxaers/Veri-analizi)]
+
+![Yazar](https://img.shields.io/badge/Yazar-Acar%20Efe%20Yaman-blue?style=for-the-badge&logo=github)
