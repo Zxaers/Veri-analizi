@@ -50,4 +50,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 1. Repoyu klonlayın:
    ```bash
    git clone
-   [https://github.com/Zxaers_Veri-analizi.git]
+   [https://github.com/Zxaers_Veri_analizi.git]
