@@ -45,6 +45,8 @@ Modelin test verisi üzerindeki performansı:
 | **Model** | Random Forest Classifier |
 ## 🚀 Kurulum ve Çalıştırma
 
+![Yazar](https://img.shields.io/badge/Yazar-Acar%20Efe%20Yaman-blue?style=for-the-badge&logo=github)
+
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Repoyu klonlayın:
@@ -53,4 +55,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    git clone 
    [(https://github.com/Zxaers/Veri-analizi)]
 
-![Yazar](https://img.shields.io/badge/Yazar-Acar%20Efe%20Yaman-blue?style=for-the-badge&logo=github)
+
