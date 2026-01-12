@@ -48,6 +48,7 @@ Modelin test verisi üzerindeki performansı:
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Repoyu klonlayın:
-   ```bash
-   git clone
+ ```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+   git clone 
    [https://github.com/Zxaers_Veri_analizi.git]
